@@ -17,6 +17,8 @@ Clone the repo https://github.com/David-Verde/Tax-calculator.git
 cd into the project
 Run bundle install to install dependencies
 To run tests write bundle exec rspec on the terminal
+
+
 Author
 👤 **David Verde Alvarez**
 
