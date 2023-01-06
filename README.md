@@ -8,7 +8,10 @@ Write an application that prints out the receipt details for these shopping bask
 Proper object orientated design is important. Each row in the input represents a line item of the receipt.
 
 Built with
+
+
 -Ruby
+
 -Rspec
 
 
