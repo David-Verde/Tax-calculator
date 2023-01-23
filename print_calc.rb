@@ -22,6 +22,9 @@ class PrintSlip
         end
         quantity = 0
         price = 0
+      
+        lines = lines.sort
+
         
  
  
